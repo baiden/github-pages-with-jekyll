@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Gitty Blog is a blog about nothing really. Just trying out GitHub pages and it's not bad so far. Very easy to setup and work with.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: samueletsiakoh # DO NOT include the @ character, or else the build will fail!
+github_username:  baiden # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
